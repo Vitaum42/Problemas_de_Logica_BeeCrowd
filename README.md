@@ -44,7 +44,7 @@ beecrowd-solutions
 ├── Dama
 │   └── Main.java
 │
-├── Josephus
+├── pneu
 │   └── Main.java
 │
 ├── Array Selection
@@ -62,10 +62,7 @@ Dentro de cada solução existe um comentário contendo:
 Exemplo dentro do código:
 
 ```java
-/*
-BeeCrowd ID: 1087
-Problema: Dama
-
+/* 1087 - Dama
 Descrição:
 Determinar o número mínimo de movimentos que uma dama
 precisa para sair de uma posição e chegar a outra
